@@ -3,6 +3,7 @@ import tkintermapview
 
 hotels: list = []
 
+
 class Hotel:
     def __init__(self, name, location, stars):
         self.name = name
